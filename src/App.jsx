@@ -14,7 +14,7 @@ function App() {
   function calculateTime(){
     const fechaActual = new Date();
 
-    const fechaFutura = new Date('2025-08-15T22:49:30');
+    const fechaFutura = new Date('2026-10-17T00:00:30');
 
     const diferenciaTiempo = fechaFutura - fechaActual;
 

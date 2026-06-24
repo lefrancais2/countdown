@@ -13,7 +13,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     </div>
     {/* <CountdownTimer fecha="2025-03-09T17:00"/>
     <CountdownTimer fecha="2025-02-13T18:40"/> */}
-    <CountdownTimer fecha="2025-02-16T18:40"/>
-    <CountdownTimer fecha="2025-01-31T23:59"/>
+    <CountdownTimer fecha="2026-10-17T00:00"/>
   </React.StrictMode>,
 )
